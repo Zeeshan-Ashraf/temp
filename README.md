@@ -1,7 +1,4 @@
 # temp
-temporary
-Data,Turbo Encoded,Noise
-1,1,-0.306260415763995 + 0.675717396163901i
-0,1,0.346654256303788 + 0.370287549890596i
-1,1,-0.0343120325837681 + 0.197588776863716i
-1,0,0.319569084682636 + 0.456984526866487i
+https://arxiv.org/pdf/1709.07417.pdf
+
+https://github.com/daviddao/pytorch-neural-search-optimizer
